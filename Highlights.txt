@@ -1,0 +1,5 @@
+- AstroTaverna is a plugin we developed for the Taverna workflow management system.
+- It integrates VO web services as first-class building blocks in Taverna scientific workflows.
+- Digital capture of otherwise lost procedural steps, manually performed in GUIs, is now possible.
+- Integration of STIL Tool Set, Aladin VO software and SAMP-compliant astronomy tools.
+- It allows enhanced documentation and comprehensive view of automated digital VO recipes.

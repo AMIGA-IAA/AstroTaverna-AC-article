@@ -1,4 +1,6 @@
-AstroTaverna-AC-article
+AstroTaverna-AA-article
 =======================
 
 GitHub for the editing of the Astronomy &amp; Computing article on AstroTaverna
+
+You can compile the article by using the script `makearticle.sh`.
